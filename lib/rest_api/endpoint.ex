@@ -19,3 +19,7 @@ defmodule RestApi.Endpoint do
 
   plug RestApi.Router
 end
+
+test.ex
+
+endpoint
